@@ -1,2 +1,2 @@
 # flex-panel-challenge-css-js
-JavaScript 30 by Wes Bos
+JavaScript30 challenge by Wes Bos
